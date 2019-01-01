@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KriptolojiOdev:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KriptolojiOdev_jar</output-path>
+    <root id="archive" name="KriptolojiOdev.jar">
+      <element id="module-output" name="KriptolojiOdev" />
+    </root>
+  </artifact>
+</component>
