@@ -25,7 +25,7 @@ Serial Number: 4C531001481224103181
 
 
 
-2. Run this code or jar file with [Java-Snake-Game](https://github.com/tolgabuyuktanir/Java-Snake-Game.git) jar file.
+2. Run this code or jar file(Yildiz-Kripto-Odev jar file and [Java-Snake-Game](https://github.com/tolgabuyuktanir/Java-Snake-Game.git) jar file must be in same directory).
 ```
 java -jar out/artifacts/KriptolojiOdev_jar/KriptolojiOdev.jar 
 ```
@@ -43,7 +43,7 @@ For more information about MD5, go to the [wikipedia page](https://www.wikiwand.
 ## Usage
 
 1. Insert USB Stick
-2. Run this code or jar file with [Java-Snake-Game](https://github.com/tolgabuyuktanir/Java-Snake-Game.git) encrypted jar file.
+2. Run this code or jar file(Working directory must include [Java-Snake-Game](https://github.com/tolgabuyuktanir/Java-Snake-Game.git) encrypted jar file).
 
 The jar file of this repository will be decryped and run [Java-Snake-Game](https://github.com/tolgabuyuktanir/Java-Snake-Game.git) encrypted jar file with USB ID and HDD ID. By the way hash verification method will be checked if it has unchanged.
 As soon as the jar is started, plain jar file will be removed to keep in secure the application. 
